@@ -6,7 +6,7 @@
 
 ![t3-code-pad demo: walking an agent's reply, zooming to a clause, quoting it and dictating a reply](docs/media/demo.gif)
 
-▶️ **[Watch the 90 s demo](docs/media/t3-code-pad-demo.mp4)** · [en español](docs/media/t3-code-pad-demo.es.mp4)
+▶️ **[Watch the 90 s demo](https://petrbrabec.github.io/t3-code-pad/docs/media/t3-code-pad-demo.mp4)** · [en español](https://petrbrabec.github.io/t3-code-pad/docs/media/t3-code-pad-demo.es.mp4)
 
 ## ✨ What you can do
 

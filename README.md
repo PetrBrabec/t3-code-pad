@@ -77,6 +77,16 @@ DualSense ──Gamepad API──▶ src/t3pad.js (inside T3)
 - Each link opened with Cross adds a new preview tab.
 - Quoting your *own* messages inserts `> text` (T3 can only cite agent messages).
 
+## 🤝 How you can help
+
+This is a side project and the maintainer isn't actively building more right now, so the next steps are open. 👍 the issues you'd use, and pull requests are welcome:
+
+- 🎙️ [Built-in dictation with Parakeet v3](https://github.com/PetrBrabec/t3-code-pad/issues/1), no VoiceInk needed
+- 🎛️ [Any remote: other controllers and devices, with a learn mode](https://github.com/PetrBrabec/t3-code-pad/issues/2)
+- 📱 [Phone as a remote](https://github.com/PetrBrabec/t3-code-pad/issues/3)
+- 🐧 [Windows and Linux support](https://github.com/PetrBrabec/t3-code-pad/issues/4): needs people who can test on those systems
+- 🐛 Found a bug or T3 Code broke something after an update? [Open an issue](https://github.com/PetrBrabec/t3-code-pad/issues/new).
+
 ## 🛠️ Development
 
 Tests drive the live app with a fake controller; see [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md). Developing from another Mac over ssh: copy `.env.example` to `.env.local` and use `scripts/deploy-air.sh`.
